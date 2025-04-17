@@ -70,17 +70,6 @@ This section breaks down how I listen:
 - **Excel**: For preprocessing and data transformation  
 - **Spotify Streaming History Export**: Personal dataset obtained via Spotify's data request  
 
-
----
-
-## 📌 Key Takeaways
-
-- I'm a late-night listener with a strong inclination toward **classic rock and indie genres**.
-- I often "sample" new music, reflected by shorter track durations.
-- My top artist (The Beatles) accounts for a massive portion of my overall listening time.
-- Year-over-year increases reflect a growing music exploration habit.
-
-
 ---
  
 💻 GitHub: [github.com/Abhishek199820](https://github.com/Abhishek199820)
